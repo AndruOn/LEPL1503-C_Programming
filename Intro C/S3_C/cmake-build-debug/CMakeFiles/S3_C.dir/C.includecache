@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/BinaryTree/BinaryTree.c
+BinaryTree.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/BinaryTree/BinaryTree.h
+stdio.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/BinaryTree/BinaryTree.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/Simple LinkedList/SImpleLinkedList.c
+SImpleLinkedList.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/Simple LinkedList/SImpleLinkedList.h
+stdio.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/Simple LinkedList/SImpleLinkedList.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/Structures and Pointers/Structures and Pointers to structures.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Structures and Pointers to structures.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/Structures and Pointers/Structures and Pointers to structures.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/Structures and Pointers/Structures and Pointers to structures.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/calloc(3) malloc(3)/CallocMalloc.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+CallocMalloc.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/calloc(3) malloc(3)/CallocMalloc.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/calloc(3) malloc(3)/CallocMalloc.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+Structures and Pointers/Structures and Pointers to structures.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/Structures and Pointers/Structures and Pointers to structures.h
+Simple LinkedList/SImpleLinkedList.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/Simple LinkedList/SImpleLinkedList.h
+BinaryTree/BinaryTree.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/BinaryTree/BinaryTree.h
+calloc(3) malloc(3)/CallocMalloc.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S3_C/calloc(3) malloc(3)/CallocMalloc.h
+

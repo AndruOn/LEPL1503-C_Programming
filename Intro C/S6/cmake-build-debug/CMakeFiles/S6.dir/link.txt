@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/S6.dir/main.c.o CMakeFiles/S6.dir/Sort_my_points/SortmyPoints.c.o CMakeFiles/S6.dir/Protect_my_Variable/Protect.c.o CMakeFiles/S6.dir/Do_my_Work/doMyWork.c.o CMakeFiles/S6.dir/Shared_ressource/SharedRessources.c.o  -o S6.exe -Wl,--out-implib,libS6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

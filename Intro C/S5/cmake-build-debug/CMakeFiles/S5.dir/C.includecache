@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/File Copy/File_copy.c
+File_copy.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/File Copy/File_copy.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/mman.h
+-
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/File Copy/File_copy.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Get and set on array stored in binary file/Get_Set_on_array.c
+Get_Set_on_array.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Get and set on array stored in binary file/Get_Set_on_array.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/mman.h
+-
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Get and set on array stored in binary file/Get_Set_on_array.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Reading int in a binary file/Sum_file.c
+Sum_file.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Reading int in a binary file/Sum_file.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/mman.h
+-
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Reading int in a binary file/Sum_file.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Save Struct into file/StructToFile.c
+StructToFile.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Save Struct into file/StructToFile.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/mman.h
+-
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Save Struct into file/StructToFile.h
+
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/main.c
+stdio.h
+-
+Save Struct into file/StructToFile.h
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S5/Save Struct into file/StructToFile.h
+

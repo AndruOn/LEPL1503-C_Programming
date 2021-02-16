@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/S2.dir/main.c.o  -o S2.exe -Wl,--out-implib,libS2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

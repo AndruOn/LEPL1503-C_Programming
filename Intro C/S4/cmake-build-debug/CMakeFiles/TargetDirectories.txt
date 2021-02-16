@@ -1,0 +1,3 @@
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S4/cmake-build-debug/CMakeFiles/S4.dir
+/cygdrive/c/Users/andru/CLionProjects/Intro C/S4/cmake-build-debug/CMakeFiles/edit_cache.dir
